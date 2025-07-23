@@ -15,14 +15,6 @@ Este es un proyecto final desarrollado con **React + Vite**, que simula una tien
 
 ---
 
-## 📸 Capturas de pantalla
-
-| Navbar | Listado de Productos |
-|--------|----------------------|
-| ![navbar](https://i.imgur.com/WTY1e5Z.png) | ![productos](https://i.imgur.com/O3K1wHH.png) |
-
----
-
 ## 🧱 Tecnologías utilizadas
 
 - [React 19](https://react.dev/)
@@ -38,3 +30,13 @@ Este es un proyecto final desarrollado con **React + Vite**, que simula una tien
 
 ## 📁 Estructura de carpetas
 
+src/
+├── components/ # Componentes reutilizables
+├── context/ # Context API para carrito y auth
+├── pages/ # Vistas: productos, login, admin, etc.
+├── routes/ # Sistema de rutas
+├── App.jsx
+└── main.jsx
+
+## Mock 
+https://662aa3f767df260810a012ae.mockapi.io/productos
