@@ -38,5 +38,5 @@ src/
 ├── App.jsx
 └── main.jsx
 
-## Mock
+## Mock 
 https://662aa3f767df260810a012ae.mockapi.io/productos
